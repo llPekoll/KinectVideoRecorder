@@ -1,0 +1,2 @@
+ofxImageSequenceRecorder-master
+ofxKinect
